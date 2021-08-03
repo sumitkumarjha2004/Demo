@@ -1,0 +1,15 @@
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\GitHub\Demo\NETFRAMEWORK\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
